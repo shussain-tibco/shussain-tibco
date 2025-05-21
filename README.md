@@ -34,4 +34,12 @@ I'm a passionate technologist specialized in modern and legacy enterprise techno
 
 ---
 
+## 📊 GitHub Trophies
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shussain-tibco&theme=gruvbox&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shussain-tibco&label=Profile+Views&color=blue&style=flat-square)
+
+
 > “Forever curious, always compiling…”
