@@ -13,8 +13,8 @@ I'm a passionate technologist specialized in modern and legacy enterprise techno
 ## 🛠️ Technical Skills
 
 - **Languages:** RPGLE, JAVA, GOLANG, COBOL, SQL
-- **Platforms & Tools:** AS400, LINUX, DOCKER, GIT, MAVEN, ORACLE CLOUD
-- **Methodologies:** AGILE
+- **Platforms & Tools:** AS400, LINUX, DOCKER, GIT, MAVEN, ORACLE CLOUD , VSCode
+- **Methodologies:** AGILE , WATERFALL
 - **Special Interests:** Gen AI, Data Conversion, Integration, Cloud-Native Development
 
 ---
@@ -22,9 +22,9 @@ I'm a passionate technologist specialized in modern and legacy enterprise techno
 ## 🌟 Notable Projects
 
 - **TIBCO BW Plugin IBMi**  
-  Developer for a high-impact integration plugin enabling seamless connectivity between TIBCO BusinessWorks and IBM i (AS400) systems.
+  Contributor as a developer for a high-impact integration plugin enabling seamless connectivity between TIBCO BusinessWorks and IBM i (AS400) systems.
 - **TIBCO BW Plugin for Data Conversion**  
-  Creator of robust solutions simplifying data transformation and migration within enterprise ecosystems.
+  Contributor as a developer to this project which provides robust solutions simplifying data transformation and migration within enterprise ecosystems.
 
 ---
 
