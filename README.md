@@ -4,6 +4,13 @@
 
 ---
 
+<!-- ✨ Typing Banner with Dark Aesthetic -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sharique+Hussain!;💻+Lead+Engineer+@+Cloud+Software+Group;🚀+IBM+i+|+Java+|+TIBCO BW+|+Golang+|+Gen+AI" />
+</p>
+
+---
+
 # 👋 Hi, I’m Sharique Hussain
 
 **Lead Application Engineer** @ CLOUD SOFTWARE GROUP | Forever curious, always compiling…
