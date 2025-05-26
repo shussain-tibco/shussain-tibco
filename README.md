@@ -1,12 +1,12 @@
+<!-- ✨ Typing Banner with Dark Aesthetic -->
 <p align="center">
-  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sharique+Hussain!;💻+Lead+Engineer+@+Cloud+Software+Group;🚀+IBM+i+|+Java+|+TIBCO BW+|+Golang+|+Gen+AI" />
 </p>
 
 ---
 
-<!-- ✨ Typing Banner with Dark Aesthetic -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sharique+Hussain!;💻+Lead+Engineer+@+Cloud+Software+Group;🚀+IBM+i+|+Java+|+TIBCO BW+|+Golang+|+Gen+AI" />
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </p>
 
 ---
@@ -43,7 +43,14 @@ I'm a passionate technologist specialized in modern and legacy enterprise techno
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharique-hussain-learn)
+<p>
+  <a href="https://www.linkedin.com/in/sharique-hussain-learn">
+    <img src="https://img.shields.io/badge/LinkedIn-Sharique%20Hussain-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shussain-tibco&label=Profile+Views&color=orange&style=flat" />
+</p>
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharique-hussain-learn) -->
 
 ---
 
