@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+</p>
+
+---
+
 # 👋 Hi, I’m Sharique Hussain
 
 **Lead Application Engineer** @ CLOUD SOFTWARE GROUP | Forever curious, always compiling…
