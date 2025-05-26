@@ -59,4 +59,4 @@ I'm a passionate technologist specialized in modern and legacy enterprise techno
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=shussain-tibco&label=Profile+Views&color=blue&style=flat-square) -->
 
 
-> “Forever curious, always compiling…”
+> “The Expert in anything was once a Beginner…”
