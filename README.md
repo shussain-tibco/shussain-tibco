@@ -1,8 +1,5 @@
-<!-- ✨ Typing Banner with Dark Aesthetic -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Sharique+Hussain!;💻+Lead+Engineer+@+Cloud+Software+Group;🚀+IBM+i+|+Java+|+TIBCO BW+|+Golang+|+Gen+AI" />
-</p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHi%2CI'm+Sharique+Hussain!;%F0%9F%92%BBLead+Engineer%40CloudSoftwareGroup;%F0%9F%9A%80IBM+i%7CJava%7CTIBCO+BW%7CGolang%7CDocker%7CLinux%7CGen-AI)](https://git.io/typing-svg)
 ---
 
 <p align="center">
